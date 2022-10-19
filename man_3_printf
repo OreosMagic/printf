@@ -123,3 +123,5 @@ int main(void)
 }
 .SH SEE ALSO
 .R printf(3)
+.SH AUTHOR
+Tontoh Gloria
